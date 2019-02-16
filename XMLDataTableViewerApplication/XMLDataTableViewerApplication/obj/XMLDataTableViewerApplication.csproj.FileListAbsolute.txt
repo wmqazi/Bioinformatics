@@ -1,0 +1,10 @@
+D:\Ph. D. Code Base 2\XMLDataTableViewerApplication\XMLDataTableViewerApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Ph. D. Code Base 2\XMLDataTableViewerApplication\XMLDataTableViewerApplication\obj\Debug\XMLDataTableViewerApplication.DataTableViewer.resources
+D:\Ph. D. Code Base 2\XMLDataTableViewerApplication\XMLDataTableViewerApplication\obj\Debug\XMLDataTableViewerApplication.MainWnd.resources
+D:\Ph. D. Code Base 2\XMLDataTableViewerApplication\XMLDataTableViewerApplication\obj\Debug\XMLDataTableViewerApplication.Properties.Resources.resources
+D:\Ph. D. Code Base 2\XMLDataTableViewerApplication\XMLDataTableViewerApplication\obj\Debug\XMLDataTableViewerApplication.csproj.GenerateResource.Cache
+D:\Ph. D. Code Base 2\XMLDataTableViewerApplication\XMLDataTableViewerApplication\bin\Debug\XMLDataTableViewerApplication.exe
+D:\Ph. D. Code Base 2\XMLDataTableViewerApplication\XMLDataTableViewerApplication\bin\Debug\XMLDataTableViewerApplication.pdb
+D:\Ph. D. Code Base 2\XMLDataTableViewerApplication\XMLDataTableViewerApplication\bin\Debug\QDataTableSelectorDialog.dll
+D:\Ph. D. Code Base 2\XMLDataTableViewerApplication\XMLDataTableViewerApplication\obj\Debug\XMLDataTableViewerApplication.exe
+D:\Ph. D. Code Base 2\XMLDataTableViewerApplication\XMLDataTableViewerApplication\obj\Debug\XMLDataTableViewerApplication.pdb
